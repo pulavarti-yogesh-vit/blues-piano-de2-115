@@ -104,7 +104,7 @@ The testbench presses each key in turn and prints the key state, speaker output 
 
 ## Results
 
-_Add photos or a video of the working piano here._
+The Video capture screenshots display the outputs on the Seven Segment displays for the respective input through push buttons on the breadboard.
 
 ## Authors
 
